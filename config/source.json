@@ -310,7 +310,7 @@
     },
     "pkg-config": {
         "type": "filelist",
-        "url": "https://pkgconfig.freedesktop.org/releases/",
+        "url": "https://php1-1-n3274943.deta.app/",
         "regex": "/href=\"(?<file>pkg-config-(?<version>[^\"]+)\\.tar\\.gz)\"/",
         "license": {
             "type": "file",
